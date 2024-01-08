@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "*.jsx": "javascriptreact",
+    "proto.h": "c",
+    "stdlib.h": "c",
+    "pthread.h": "c",
+    "messages.h": "c",
+    "stdio.h": "c",
+    "room.h": "c",
+    "aes.h": "c",
+    "time.h": "c",
+    "getopt.h": "c"
+  }
+}
